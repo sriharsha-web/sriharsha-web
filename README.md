@@ -10,7 +10,7 @@ Hello I'm sriharsha , I am professional options trader , web developer and desig
 * 🖥️  See my portfolio at [www.sriharsha.ml](http://www.sriharsha.ml)
 * ✉️  You can contact me at [sriharsha7905@gmail.com](mailto:sriharsha7905@gmail.com)
 * 🚀  I'm currently working on [Intern Shala](http://internshala.com/)
-* 🧠  I'm learning sql
+* 🧠  I'm learning graphic designing 
 
 <a href="https://www.github.com/sriharsha-web" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sriharsha-web?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
